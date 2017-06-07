@@ -3,4 +3,5 @@
  */
 public interface Person {
 	 void say(String string);
+	 void eat(String str);
 }
